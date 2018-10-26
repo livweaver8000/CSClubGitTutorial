@@ -1,2 +1,2 @@
 # CSClubGitTutorial
-Create your own branch and try to push changes!
+Create your own fork and try to push changes!
