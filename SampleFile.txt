@@ -5,3 +5,6 @@ I'm don't know exactly what to put here so, this is just more text.
 public static void main(String args[]) {
   System.out.println("Hello World");
  }
+
+This is Minh's change.
+This is Minh's change.
